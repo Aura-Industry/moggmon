@@ -1,0 +1,468 @@
+{
+  "schemaVersion": 1,
+  "id": "moggmon-v2-revised-allocation",
+  "description": "Public Moggmon V2 initial claim allocation list.",
+  "generatedAt": "2026-04-30T13:36:37.513Z",
+  "publishedFromSourceCommit": "53fb20a69f60cfd50e38569b4b9e8861eb424792",
+  "merkleRoot": "0xd45cd7c076b999ba704ef0835723ea8dddc3e80522531af633bded01ee09c34b",
+  "totalWallets": 91,
+  "totalAllocation": 2988,
+  "maxAllocationPerAddress": 450,
+  "claims": [
+    {
+      "address": "0x0000CE08fa224696A819877070BF378e8B131ACF",
+      "ens": "aaronjmars.eth",
+      "allocation": 30
+    },
+    {
+      "address": "0x047F606fD5b2BaA5f5C6c4aB8958E45CB6B054B7",
+      "ens": "surfsurf.eth",
+      "allocation": 9
+    },
+    {
+      "address": "0x0589eDF30d8704702B6399f342E2B765b03745a8",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x0695D9d8a31F33477a873f33D508809ffE1A8fDa",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x0adab54c49ada1De8038bC31F243de12aE1fC709",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0x0d2c4140393a85884321dcfA96388Cb35cF7e2da",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x0d4D9F724709DC3617AD25693274003e77Ea013F",
+      "ens": null,
+      "allocation": 75
+    },
+    {
+      "address": "0x0db0960e1E358875c5A39A2422425A8513dd77AE",
+      "ens": "07-59.eth",
+      "allocation": 6
+    },
+    {
+      "address": "0x1064bC5406bc61951cb62829E71eb966A012799e",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x1358155a15930f89eBc787a34Eb4ccfd9720bC62",
+      "ens": "limone.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0x1734DE4737cF955e93E03a717c6E8C0df064b642",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0x1B18D8126DDE618E994A9B4ab115B944EFC748a2",
+      "ens": "undie.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0x1Cb10a7Bc2398bad0Ef5C4dE0A3dcDC40Dc1C8F0",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x2352825ADdc25772CcF411C4A008dD16679bf844",
+      "ens": null,
+      "allocation": 36
+    },
+    {
+      "address": "0x2aC8A1c87728B82029627ABb81827F8928E77899",
+      "ens": null,
+      "allocation": 81
+    },
+    {
+      "address": "0x2BDF1a698d39A4358e2C162dEacc038FAdb8A9d5",
+      "ens": null,
+      "allocation": 450
+    },
+    {
+      "address": "0x2ef91890af7a57Be4ED4349621067CcabDd5091B",
+      "ens": null,
+      "allocation": 36
+    },
+    {
+      "address": "0x2f84EbB2F7f8edCf8e83A75a12f32bd8D99DE3e0",
+      "ens": null,
+      "allocation": 15
+    },
+    {
+      "address": "0x30806291f11c4cD60DF81950Cdb34C316059289c",
+      "ens": "paulcapital.eth",
+      "allocation": 18
+    },
+    {
+      "address": "0x3266B4025Ad62cB3BC066017D4055acee9a42f3d",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x347ffC6DB9aCc54ac2019795173B9599E8B82BD9",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0x397402a7FAdd11Ed297B50ca3b391261d8A93044",
+      "ens": null,
+      "allocation": 51
+    },
+    {
+      "address": "0x3ADCB87A32d5723606823951f44fD4f2dDC06500",
+      "ens": null,
+      "allocation": 24
+    },
+    {
+      "address": "0x3b54621FE962ee8E5283f2429B800e2E212c9a02",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x4149e72DEb41D2399E12a21A0Cd1721EaF8Cb8aE",
+      "ens": null,
+      "allocation": 150
+    },
+    {
+      "address": "0x439a567dd748Fead41d370C0617fFA4A49ee48bc",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x454685DEC7796c2c747294F7AA7a30b2C5Ab05F7",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x47D8c6F1EEaf8bb417d674d5b74EF63f1394DCcA",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0x4bbf76CF6Dd12d98aca6ce669c254E9b62421BCE",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x4DbFe95D465a69F4d737952a072A8f433d162514",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0x55d872DCF0C1C73eFb1ec9a6b10c3E160b8F3727",
+      "ens": "李8888.eth",
+      "allocation": 6
+    },
+    {
+      "address": "0x568dC476b4Af661248CaeA5F43BA861AeE1a03FE",
+      "ens": "yerusalem.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0x5AD88DCE08136D5455184d0ee5ddfd47554671B9",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x6104f6684F4F966E4B81CDf9a6B4836052CDa456",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x6249A9C03B148aCd773d806A50E1aA983e34bE0F",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x64a571634e77e43999D80cde959726cDEACd65e9",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x64c030f6aB7C74aAA7d612FF86230C7E265E8B48",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x67EB3eF9BfD575f356ecF2508E76EB6D1eB30F45",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0x69A47ca9B99414C602dD1ffb2fDb6d6305301676",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0x6aAd479708B84BcCCc8986Ed92593764e82301fB",
+      "ens": null,
+      "allocation": 9
+    },
+    {
+      "address": "0x6Dc14f830A7804BD6b689108BC696d338E286484",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x7121dD5EEb78C112611451337E602A76c1f00091",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x7431931094e8BAe1ECAA7D0b57d2284e121F760e",
+      "ens": null,
+      "allocation": 150
+    },
+    {
+      "address": "0x77c5E824823ec49981aE37F915C2F3c568747335",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x7906D5e4a10fBb07f5491018ab29dF072a76eb3D",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0x80990a4e0f626ef6D01DA02eb3F3cbD868b9C75F",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0x83b1385D8126ecF64BFb3B4254D67eb9dB753BcC",
+      "ens": null,
+      "allocation": 69
+    },
+    {
+      "address": "0x85026596042Cf8CAB1b521bCca86C56cf2D2ecAe",
+      "ens": null,
+      "allocation": 75
+    },
+    {
+      "address": "0x8B7F07E24A9D779B72D719123cBf72A5654eF2D4",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0x964DADfc160AaA79F9d12c51758C5Ef7df802869",
+      "ens": "birtcorn.eth",
+      "allocation": 6
+    },
+    {
+      "address": "0x9D387Ab7FF693c1c26c59c3a912678b58368e9e5",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x9D91Afea53BFF89c4fb734a78E78FcfC2aAdB3D6",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0x9EA9F5127c668141F32e09A5DE3145f4a9681D56",
+      "ens": null,
+      "allocation": 57
+    },
+    {
+      "address": "0x9fA8032443e536c094E4EFAF54CEd0409F608148",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0xA017F839dd9be2a5EBc76E58Cc34ef7a542fAE6D",
+      "ens": null,
+      "allocation": 42
+    },
+    {
+      "address": "0xA0B7B5164F5301d1D74b8A0B905ECc8c219345bf",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0xa15fa1430eB4721EE4f15f0e60E6EA029ad9930a",
+      "ens": null,
+      "allocation": 30
+    },
+    {
+      "address": "0xa506439798A7F342c8EB2A1279FE6002E4De4aa6",
+      "ens": null,
+      "allocation": 42
+    },
+    {
+      "address": "0xa62D214750455C043C25DEA89FECc8724f61e45b",
+      "ens": null,
+      "allocation": 15
+    },
+    {
+      "address": "0xaAEacFB7A5f97b6Fa3c3dF8E9712D03eE05E3c14",
+      "ens": null,
+      "allocation": 63
+    },
+    {
+      "address": "0xAC63515867BCC886BCF5f8EF0DE9E8D50B30a3B9",
+      "ens": null,
+      "allocation": 18
+    },
+    {
+      "address": "0xb4BedDF1b828aAed9638601F7145B0f6093F2d3F",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0xbB24CDA09CB5A838Ec93bAe56278dC799f34FEb4",
+      "ens": null,
+      "allocation": 150
+    },
+    {
+      "address": "0xbeB26afE641A88Da9dDf1b152d240CA5917839bC",
+      "ens": "alcoholcorrupts.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0xBF24D26B534A19E4F09c0B698b2CBffF820a452E",
+      "ens": "themafiaboss.eth",
+      "allocation": 6
+    },
+    {
+      "address": "0xbFF8c6C34f1EFacF6844350dE907Cca6F07C76b8",
+      "ens": "rayblanco.eth",
+      "allocation": 9
+    },
+    {
+      "address": "0xc224a6C0E1cDbDc5Ea72eA6136652Fe1686b70DC",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0xc37016F3023d0218718cA22A423D9dD00eB58275",
+      "ens": "soir.eth",
+      "allocation": 6
+    },
+    {
+      "address": "0xC77EB7f172Ce0e1F1d54eC33F7d15Ca9f71af6Dd",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0xC88fDB5b9Ff58cC8455C2875a773F625757a8482",
+      "ens": null,
+      "allocation": 75
+    },
+    {
+      "address": "0xCa1a2fB7f3179D887504966b25d1606978AdcD42",
+      "ens": null,
+      "allocation": 15
+    },
+    {
+      "address": "0xcE28e59635376b6E4d5C3738F21C8b44a47206CB",
+      "ens": null,
+      "allocation": 21
+    },
+    {
+      "address": "0xCe4cf6E004B584c27538e8c2Ef38Cdf6698f1128",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0xd0B8e57B07d83440f103F6520460d439e37A30f0",
+      "ens": null,
+      "allocation": 15
+    },
+    {
+      "address": "0xd15031D0942634CCAC10274E68945a23D2720922",
+      "ens": null,
+      "allocation": 150
+    },
+    {
+      "address": "0xd6c3A34d41203350112A0C384D33dcE5F9FfD2cd",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0xd7B4bffBB5425716b3aC5F71366Dc2C1C528F6A4",
+      "ens": null,
+      "allocation": 24
+    },
+    {
+      "address": "0xd7B7A3AB29B3282dc76419Bd57776e0E90DE8A41",
+      "ens": "michaelx404.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0xDdA72402c43f793FcFfF4bDc274C893586bed3Ba",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0xDf2968383A3872E5036cD73fb411D0DABb224253",
+      "ens": null,
+      "allocation": 120
+    },
+    {
+      "address": "0xeCBe5f4D026ECDD8C90EDcb4a7b68E3aF5485cc4",
+      "ens": "howlshot.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0xED702AbC9Fe8a256931b38a49804a538fDBC5472",
+      "ens": null,
+      "allocation": 15
+    },
+    {
+      "address": "0xeD7621D30C0977e545737159d8F9988FCb3647Fa",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0xf43B2bE4AA887F426F05f78604b364af667C608d",
+      "ens": "spitfunkolips.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0xF703FD64093B50797aBDc9E450632240FA2bA5D4",
+      "ens": null,
+      "allocation": 60
+    },
+    {
+      "address": "0xF854942E97ca20Fa13D2C174fc035321c08b6197",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0xFAA44640D9398DbDbe61A376C4ec76497817d118",
+      "ens": null,
+      "allocation": 12
+    },
+    {
+      "address": "0xFdfD38E6EB947499167F121C3Ef3B9805758448F",
+      "ens": null,
+      "allocation": 3
+    },
+    {
+      "address": "0xfe77E3B7A6040556eccdeF30B3B7C04468aC5932",
+      "ens": null,
+      "allocation": 6
+    },
+    {
+      "address": "0xFf0FAFB54823806eCcA746a9dF5Be8B14bb9AF72",
+      "ens": "sukmadeek.eth",
+      "allocation": 3
+    },
+    {
+      "address": "0xFFD86E1C24c0883731e48e1192e316b1562D0Be1",
+      "ens": null,
+      "allocation": 3
+    }
+  ]
+}

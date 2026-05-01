@@ -1,0 +1,15 @@
+node_modules
+artifacts
+cache
+deployment_logs/create_*_developer_*.json
+
+# generated/local
+.env
+.env.*
+artifacts/
+cache/
+coverage/
+dist/
+node_modules/
+tmp/
+typechain-types/
